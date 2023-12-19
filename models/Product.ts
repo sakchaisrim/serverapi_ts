@@ -1,4 +1,5 @@
 // Define an interface for the product data
+
 interface ProductData {
   name: string
   description: string
